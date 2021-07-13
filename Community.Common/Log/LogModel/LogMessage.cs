@@ -39,5 +39,7 @@ namespace Community.Common
         /// 请求体
         /// </summary>
         public string RequestBody { get; set; }
+
+        public int MyProperty { get; set; }
     }
 }
