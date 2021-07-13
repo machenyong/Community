@@ -41,5 +41,7 @@ namespace Community.Common
         public string RequestBody { get; set; }
 
         public int MyProperty { get; set; }
+
+        public int MyProperty123213 { get; set; }
     }
 }
